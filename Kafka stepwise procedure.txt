@@ -1,0 +1,42 @@
+metadata saved to this dir 
+
+zookeper has been started on that console opening other console for operations
+
+broker info zoopkeper info
+single broker whose id given inshort cong file.
+broker port 9092 which we seen before
+
+all broker related msg files saved to this dir
+
+first broker hass been started...
+
+this server.properties created multiple brokers
+
+starting second server... we have create second server1.properties file and made changes for vroker id,port ,log dir
+
+created 3rd Broker :D
+
+Now we will create topics...
+
+1 topic created..
+
+by default topic : __consumer_offsets
+
+leader recieved all requests and it sync data to insync Replicas = isr
+Insync replicas are replica which are not leader
+
+producer created...
+Consumer created...
+
+-from-beginning receives msg before creation of consumer which are written by producer
+
+else it will start from current msg
+
+KafKa Streaming Done.... :D
+
+
+
+
+
+
+
