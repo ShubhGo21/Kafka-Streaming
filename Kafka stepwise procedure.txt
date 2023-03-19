@@ -1,3 +1,10 @@
+# Author: Shubham Gomase
+# Refer this text while watching detailed video of Kafka Streaming 
+# Kafka_Streaming Youtube Link : 
+
+
+
+
 metadata saved to this dir 
 
 zookeper has been started on that console opening other console for operations
